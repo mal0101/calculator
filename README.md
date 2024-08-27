@@ -1,0 +1,1 @@
+The calculator.py script imports the operations module and the math module. It then prompts the user to select an operation to perform.
