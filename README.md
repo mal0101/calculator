@@ -1,1 +1,1 @@
-The calculator.py script imports the operations module and the math module. It then prompts the user to select an operation to perform.
+This calculator program uses tkinter for the GUI part and the math library for its operations.
